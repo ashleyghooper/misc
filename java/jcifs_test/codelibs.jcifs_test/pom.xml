@@ -4,14 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>company.com</groupId>
-    <artifactId>jcifs-ng_test</artifactId>
+    <artifactId>codelibs.jcifs_test</artifactId>
     <version>1.0.0</version>
 
     <dependencies>
         <dependency>
-            <groupId>eu.agno3.jcifs</groupId>
-            <artifactId>jcifs-ng</artifactId>
-            <version>2.1.10</version>
+            <groupId>org.codelibs</groupId>
+            <artifactId>jcifs</artifactId>
+            <version>2.1.37</version>
         </dependency>
     </dependencies>
 
